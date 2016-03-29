@@ -1,7 +1,7 @@
 ## golock
 <Samuel Worne samuel@worne.xyz>
 
-A small go application to take a screenshot on linux systems and pixelate the result, origionally intended for use with applications such as xscreensaver or alock.
+A small go application to take a screenshot on linux systems and pixelate the result, originally intended for use with applications such as xscreensaver or alock.
 
 Just a rewrite of other similar applications, but in golang as I couldn't find anything similar already in the language.
 
